@@ -1,4 +1,5 @@
 <h1 align="center">Hi My name is  Malshika Peiris I am also interested in Cloud Computing Platform </h1>
+<h3 align="center"> Hello Malshika Peiris, it's great to hear that you're interested in cloud computing platforms! Cloud computing is a technology that has transformed the way organizations and individuals use and manage their IT resources. A cloud computing platform provides a range of services and resources over the internet, allowing users to access and use computing power, storage, and various other services without the need to own or manage physical infrastructure.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malshikapeiris&label=Profile%20views&color=0e75b6&style=flat" alt="malshikapeiris" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malshikapeiris" alt="malshikapeiris" /></a> </p>
@@ -7,10 +8,6 @@
 
 <p align="left">
 <a href="https://fb.com/malshika peiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malshika peiris" height="30" width="40" /></a>
-  
-<a href="https://instagram.com/peiris_malshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peiris_malshika" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/malshikapeiris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="malshika peiris" height="30" width="40" /></a>
   
 <a href="https://instagram.com/peiris_malshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peiris_malshika" height="30" width="40" /></a>
 </p>
