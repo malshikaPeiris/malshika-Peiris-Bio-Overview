@@ -21,11 +21,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ 
   
 - 💞️ I’m looking to collaborate on any Cloud Platform
   
--⚡ LinkedIn   : https://www.linkedin.com/in/malshikapeiris/
--⚡ FaceBook   : https://www.facebook.com/malshika.peiris.35
--⚡ Instagram  : https://www.instagram.com/peiris_malshika/
--⚡ Threads    : https://www.threads.net/@peiris_malshika
--⚡ YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ
+-⚡ LinkedIn   : https://www.linkedin.com/in/malshikapeiris/ <br>
+-⚡ FaceBook   : https://www.facebook.com/malshika.peiris.35 <br>
+-⚡ Instagram  : https://www.instagram.com/peiris_malshika/ <br>
+-⚡ Threads    : https://www.threads.net/@peiris_malshika <br>
+-⚡ YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br>
 
 
 
