@@ -1,7 +1,9 @@
 Hi! This is Malshika's GitHub Profile
 <h1 align="center">Hi My name is  Malshika Peiris </h1>
+<h1 align="center">Wellcome !</h1>
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)]
 
-<h2 align="center">I am also interested in Cloud Computing Platform </h2>
+<h3 align="center">I am also interested in Cloud Computing Platform </h3>
 
 <h3 align="center"> I am Malshika Peiris, it's great to hear that I am interested in cloud computing platforms! Cloud computing is a technology that has transformed the way organizations and individuals use and manage their IT resources. A cloud computing platform provides a range of services and resources over the internet, allowing users to access and use computing power, storage, and various other services without the need to own or manage physical infrastructure.</h3>
 
@@ -18,15 +20,15 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ 
   
 - 📫 How to contact me: gpmalshika@gmail.com
 - 📫 How to contact me: it20147396@my.sliit.lk
-  
+- 👯 I’m looking to collaborate on **More Projects 🔥**
 - 💞️ I’m looking to collaborate on any Cloud Platform
-  
+- 📝 Sometimes I write articles 
 - 📫 How to contact me through LinkedIn   : https://www.linkedin.com/in/malshikapeiris/ <br>
 - 📫 How to contact me through FaceBook   : https://www.facebook.com/malshika.peiris.35 <br>
 - 📫 How to contact me through Instagram  : https://www.instagram.com/peiris_malshika/ <br>
 - 📫 How to contact me through Threads    : https://www.threads.net/@peiris_malshika <br>
 - 📫 How to contact me through YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br>
-
+- ⚡ Fun fact **love to travel..🌴**
 
 
 <p align="center">
