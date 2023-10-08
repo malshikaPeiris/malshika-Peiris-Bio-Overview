@@ -5,6 +5,23 @@ Hi! This is Malshika's GitHub Profile
 
 <h3 align="center"> I am Malshika Peiris, it's great to hear that I am interested in cloud computing platforms! Cloud computing is a technology that has transformed the way organizations and individuals use and manage their IT resources. A cloud computing platform provides a range of services and resources over the internet, allowing users to access and use computing power, storage, and various other services without the need to own or manage physical infrastructure.</h3>
 
+
+Hi! This is My Github Profile
+
+Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ / AWS Cloud management / Azure Cloud management
+
+- 🔭 I’m currently Undergraduate at  SLIIT
+- 🔭 My Home Town: Kalutara South
+- 🌱 I’m currently doing  a degree in Information Technology specializing in Information Technology
+- 🌱 Did an Internship at Sri Lanka Customs Headoffice, IT Branch as a Pure PHP Web Developer.
+- 📫 How to contact me: gpmalshika@gmail.com
+- 📫 How to contact me: it20147396@my.sliit.lk
+-  How to reach me: https://www.linkedin.com/in/malshikapeiris/
+-  How to reach me: https://www.facebook.com/malshika.peiris.35
+-  How to reach me: https://www.instagram.com/peiris_malshika/
+-  How to reach me: https://www.threads.net/@peiris_malshika
+
+
 <p align="center">
   
   <a href="https://github.com/azkadev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;3%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -25,18 +42,7 @@ Hi! This is Malshika's GitHub Profile
 
 
 
-Hi ! This is My Github Profile
 
-Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ / AWS Cloud management / Azure Cloud management
-
-- 🔭 I’m currently Undergraduate at  SLIIT 
-- 🌱 I’m currently doing  a degree in Information Technology specializing in Information Technology 
-- 📫 How to contact me: gpmalshika@gmail.com
-- 📫 How to contact me: it20147396@my.sliit.lk
--  How to reach me: https://www.linkedin.com/in/malshikapeiris/
--  How to reach me: https://www.facebook.com/malshika.peiris.35
--  How to reach me: https://www.instagram.com/peiris_malshika/
--  How to reach me: https://www.threads.net/@peiris_malshika
 
 
 <h3 align="left">Languages and Tools:</h3>
