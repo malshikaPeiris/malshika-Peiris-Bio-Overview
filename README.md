@@ -35,6 +35,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ 
 - 📫 How to contact me: it20147396@my.sliit.lk
 -  How to reach me: https://www.linkedin.com/in/malshikapeiris/
 -  How to reach me: https://www.facebook.com/malshika.peiris.35
+-  How to reach me: https://www.instagram.com/peiris_malshika/
+-  How to reach me: https://www.threads.net/@peiris_malshika
 
 
 <h3 align="left">Languages and Tools:</h3>
