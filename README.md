@@ -1,11 +1,17 @@
-<h1 align="center">Hi My name is  malshika Peiris <br> I am also interesting in cloud computing platform</br></h1>
+<h1 align="center">Hi My name is  Malshika Peiris ..I am also interested in Cloud Computing Platform..</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malshikapeiris&label=Profile%20views&color=0e75b6&style=flat" alt="malshikapeiris" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malshikapeiris" alt="malshikapeiris" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://fb.com/malshika peiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malshika peiris" height="30" width="40" /></a>
+  
+<a href="https://instagram.com/peiris_malshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peiris_malshika" height="30" width="40" /></a>
+
+<a href="[https://fb.com/malshika peiris](https://www.linkedin.com/in/malshikapeiris/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="malshika peiris" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/peiris_malshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peiris_malshika" height="30" width="40" /></a>
 </p>
 
