@@ -12,14 +12,22 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ 
 
 - 🔭 I’m currently Undergraduate at  SLIIT
 - 🔭 My Home Town: Kalutara South
+  
 - 🌱 I’m currently doing  a degree in Information Technology specializing in Information Technology
 - 🌱 Did an Internship at Sri Lanka Customs Headoffice, IT Branch as a Pure PHP Web Developer.
+  
 - 📫 How to contact me: gpmalshika@gmail.com
 - 📫 How to contact me: it20147396@my.sliit.lk
--  How to reach me: https://www.linkedin.com/in/malshikapeiris/
--  How to reach me: https://www.facebook.com/malshika.peiris.35
--  How to reach me: https://www.instagram.com/peiris_malshika/
--  How to reach me: https://www.threads.net/@peiris_malshika
+  
+- 💞️ I’m looking to collaborate on any Cloud Platform
+  
+- 📫 How to reach me : 
+-⚡ LinkedIn   : https://www.linkedin.com/in/malshikapeiris/
+-⚡ FaceBook   : https://www.facebook.com/malshika.peiris.35
+-⚡ Instagram  : https://www.instagram.com/peiris_malshika/
+-⚡ Threads    : https://www.threads.net/@peiris_malshika
+-⚡ YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ
+
 
 
 <p align="center">
