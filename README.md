@@ -1,3 +1,4 @@
+Hi! This is Malshika's GitHub Profile
 <h1 align="center">Hi My name is  Malshika Peiris </h1>
 
 <h2 align="center">I am also interested in Cloud Computing Platform </h2>
@@ -24,13 +25,16 @@
 
 
 
-This is My Github Profile
+Hi ! This is My Github Profile
 
-Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ 
+Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ / AWS Cloud management / Azure Cloud management
 
 - 🔭 I’m currently Undergraduate at  SLIIT 
 - 🌱 I’m currently doing  a degree in Information Technology specializing in Information Technology 
-- 📫 How to reach me: gpmalshika@gmail.com 
+- 📫 How to contact me: gpmalshika@gmail.com
+- 📫 How to contact me: it20147396@my.sliit.lk
+-  How to reach me: https://www.linkedin.com/in/malshikapeiris/
+-  How to reach me: https://www.facebook.com/malshika.peiris.35
 
 
 <h3 align="left">Languages and Tools:</h3>
