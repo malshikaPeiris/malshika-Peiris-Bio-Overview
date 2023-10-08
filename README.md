@@ -1,7 +1,7 @@
 Hi! This is Malshika's GitHub Profile
 <h1 align="center">Hi My name is  Malshika Peiris </h1>
 <h1 align="center">Wellcome !</h1>
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)]
+
 
 <h3 align="center">I am also interested in Cloud Computing Platform </h3>
 
