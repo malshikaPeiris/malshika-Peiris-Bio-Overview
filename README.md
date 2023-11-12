@@ -3,7 +3,7 @@ Hi! This is Malshika's GitHub Profile
 <h1 align="center">Wellcome !</h1>
 
 
-<h3 align="center">I am also interested in Cloud Computing Platform </h3>
+<h3 align="center">Hi I am also interested in Cloud Computing Platform </h3>
 
 <h3 align="center"> I am Malshika Peiris, it's great to hear that I am interested in cloud computing platforms! Cloud computing is a technology that has transformed the way organizations and individuals use and manage their IT resources. A cloud computing platform provides a range of services and resources over the internet, allowing users to access and use computing power, storage, and various other services without the need to own or manage physical infrastructure.</h3>
 
