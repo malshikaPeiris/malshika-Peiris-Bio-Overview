@@ -1,5 +1,5 @@
 Hi! This is Malshika's GitHub Profile
-<h1 align="center">Hi My name is  Malshika Peiris </h1>
+<h1 align="center"> My name is  Malshika Peiris </h1>
 <h1 align="center">Wellcome !</h1>
 
 
