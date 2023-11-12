@@ -1,15 +1,9 @@
-Hi! This is Malshika's GitHub Profile
-<h1 align="center"> My name is  Malshika Peiris </h1>
-<h1 align="center">Wellcome !</h1>
+
+<h1 align="center">Wellcome! My name is  Malshika Peiris </h1>
 <p align="center">
-  
   <a href="https://github.com/azkadev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;3%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-
 <h3 align="center">Hi I am also interested in Cloud Computing Platform </h3>
-
-Hi! This is My Github Profile
-
 Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ / AWS Cloud management / Azure Cloud management
 
 - 🔭 I’m currently Undergraduate at  SLIIT
