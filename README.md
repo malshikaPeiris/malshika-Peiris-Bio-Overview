@@ -10,8 +10,9 @@
 - 📫 How to contact me through Instagram  : https://www.instagram.com/peiris_malshika/ <br>
 - 📫 How to contact me through Threads    : https://www.threads.net/@peiris_malshika <br>
 - 📫 How to contact me through YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br>
- <p align="center">MY SKILLS</p>
- <br>
+<br>
+<p align="center">MY SKILLS</p>
+ 
 <table><tr><td valign="top" width="33%">
 <br>
 ### Frontend  
