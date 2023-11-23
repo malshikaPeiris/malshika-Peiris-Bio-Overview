@@ -10,9 +10,10 @@
 - 📫 How to contact me through Instagram  : https://www.instagram.com/peiris_malshika/ <br>
 - 📫 How to contact me through Threads    : https://www.threads.net/@peiris_malshika <br>
 - 📫 How to contact me through YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br>
- 
+ <p align="center">MY SKILLS</p>
+ <br>
 <table><tr><td valign="top" width="33%">
-<p align="center">MY SKILLS</p>
+
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
