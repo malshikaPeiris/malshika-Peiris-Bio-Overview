@@ -4,8 +4,11 @@
   <a href="https://github.com/azkadev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;3%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 <h3 align="center">Hi I am also interested in Cloud Computing Platform </h3>
-Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ / AWS Cloud management / Azure Cloud management
-
+- 📫 How to contact me through LinkedIn   : https://www.linkedin.com/in/malshikapeiris/ <br>
+- 📫 How to contact me through FaceBook   : https://www.facebook.com/malshika.peiris.35 <br>
+- 📫 How to contact me through Instagram  : https://www.instagram.com/peiris_malshika/ <br>
+- 📫 How to contact me through Threads    : https://www.threads.net/@peiris_malshika <br>
+- 📫 How to contact me through YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -98,11 +101,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / PYTHON / C / C++ 
 - 👯 I’m looking to collaborate on **More Projects 🔥**
 - 💞️ I’m looking to collaborate on any Cloud Platform
 - 📝 Sometimes I write articles 
-- 📫 How to contact me through LinkedIn   : https://www.linkedin.com/in/malshikapeiris/ <br>
-- 📫 How to contact me through FaceBook   : https://www.facebook.com/malshika.peiris.35 <br>
-- 📫 How to contact me through Instagram  : https://www.instagram.com/peiris_malshika/ <br>
-- 📫 How to contact me through Threads    : https://www.threads.net/@peiris_malshika <br>
-- 📫 How to contact me through YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br>
 - ⚡ Fun fact **love to travel..🌴**
 
 
