@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/malshika.peiris.35)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Paradox2405.visitor-badge) 
+
 
 ![Paradox2405](https://github-readme-stats.vercel.app/api?username=Paradox2405&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![Paradox2405](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405&layout=compact&langs_count=6&theme=algolia)
