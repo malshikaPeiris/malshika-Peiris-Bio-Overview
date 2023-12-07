@@ -25,6 +25,18 @@
 - 📫 How to contact me through Instagram  : https://www.instagram.com/peiris_malshika/ <br>
 - 📫 How to contact me through Threads    : https://www.threads.net/@peiris_malshika <br>
 - 📫 How to contact me through YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br>
+- 🔭 I’m currently Undergraduate at  SLIIT
+- 🔭 My Home Town: Kalutara South
+  
+- 🌱 I’m currently doing  a degree in Information Technology specializing in Information Technology
+- 🌱 Did an Internship at Sri Lanka Customs Headoffice, IT Branch as a Pure PHP Web Developer.
+  
+- 📫 How to contact me: gpmalshika@gmail.com
+- 📫 How to contact me: it20147396@my.sliit.lk
+- 👯 I’m looking to collaborate on **More Projects 🔥**
+- 💞️ I’m looking to collaborate on any Cloud Platform
+- 📝 Sometimes I write articles 
+- ⚡ Fun fact **love to travel..🌴**
 <br>
 
 <br>
@@ -111,18 +123,7 @@
 </td></tr></table>  
 
 <br/>  
-- 🔭 I’m currently Undergraduate at  SLIIT
-- 🔭 My Home Town: Kalutara South
-  
-- 🌱 I’m currently doing  a degree in Information Technology specializing in Information Technology
-- 🌱 Did an Internship at Sri Lanka Customs Headoffice, IT Branch as a Pure PHP Web Developer.
-  
-- 📫 How to contact me: gpmalshika@gmail.com
-- 📫 How to contact me: it20147396@my.sliit.lk
-- 👯 I’m looking to collaborate on **More Projects 🔥**
-- 💞️ I’m looking to collaborate on any Cloud Platform
-- 📝 Sometimes I write articles 
-- ⚡ Fun fact **love to travel..🌴**
+
 
 
 <p align="center">
