@@ -17,11 +17,11 @@
 - 📫 How to contact me through Instagram  : https://www.instagram.com/peiris_malshika/ <br>
 - 📫 How to contact me through Threads    : https://www.threads.net/@peiris_malshika <br>
 - 📫 How to contact me through YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br>
-<be>
+<br>
 
 ![Paradox2405](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405&layout=compact&langs_count=6&theme=algolia)
 ![Paradox2405](https://github-readme-stats.vercel.app/api/wakatime?username=Paradox2405&layout=default&langs_count=8&theme=algolia&custom_title=Other%20Stats&v=2)
-
+<br>
 <p align="center">MY SKILLS</p>
  
 <table><tr><td valign="top" width="33%">
