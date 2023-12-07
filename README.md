@@ -1,11 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,figma,jquery,sass,xd,react,redux,nodejs,express,angular,vue,mysql,mongodb,nextjs,nuxtjs,postman,threejs,tailwind,babel,electron,wordpress,webflow,cs,dotnet,docker,go,visualstudio,vscode,cloudflare,firebase,heroku,aws,azure" />
-    
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,figma,jquery,sass,xd,react,redux,nodejs,express,angular,vue,mysql,mongodb,nextjs,nuxtjs,postman,threejs,tailwind,babel,electron,wordpress,webflow,cs,dotnet,docker,go,visualstudio,vscode,cloudflare,firebase,heroku,aws,azure" />  
   </a>
 </p>
-<img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malshikapeiris/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/peiris_malshika/)
