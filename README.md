@@ -8,16 +8,18 @@ information skills, I am an ambitious professional known for approaching tasks
 with a high degree of responsibility and a strategic mindset. Throughout my
 academic journey, I have demonstrated a keen aptitude for learning and a
 proactive approach to challenges.</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,figma,jquery,sass,xd,react,redux,nodejs,express,angular,vue,mysql,mongodb,nextjs,nuxtjs,postman,threejs,tailwind,babel,electron,wordpress,webflow,cs,dotnet,docker,go,visualstudio,vscode,cloudflare,firebase,heroku,aws,azure" />  
   </a>
-</p>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malshikapeiris/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/peiris_malshika/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/malshika.peiris.35)
+</p>
 <br>
 
 
