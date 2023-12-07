@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center"><img src="https://github.com/SandupaAbeywardana/SandupaAbeywardana/blob/main/landing.jpg" height="280"></p>
+<img align="right" width="300px" src="https://github.com/thatmare/thatmare/assets/113146161/c825f8c3-4798-4f72-9021-12ea7b61d903"/>
 <h1 align="center">I'm Malshika Peiris</h1>
 <h2 align="center">proficient in a variety of IT skills and software Applications</h2>
 
