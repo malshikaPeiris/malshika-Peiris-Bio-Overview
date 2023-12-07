@@ -1,5 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h1 align="left">Malshika Peiris</h1>
+<h1 align="center">Malshika Peiris</h1>
+
 
 <h3 align="left">I am Malshika Peiris, a distinguished graduate of the esteemed Sri Lanka
 Institute of Information Technology (SLIIT). Equipped with a robust set of
