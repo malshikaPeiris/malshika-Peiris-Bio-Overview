@@ -39,10 +39,9 @@ proactive approach to challenges.</h3>
 - 📫 How to contact me through YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br>
 - 🔭 I’m currently Undergraduate at  SLIIT
 - 🔭 My Home Town: Kalutara South
-  
+  <br> <br>
 - 🌱 I’m currently doing  a degree in Information Technology specializing in Information Technology
 - 🌱 Did an Internship at Sri Lanka Customs Headoffice, IT Branch as a Pure PHP Web Developer.
-  
 - 📫 How to contact me: gpmalshika@gmail.com
 - 📫 How to contact me: it20147396@my.sliit.lk
 - 👯 I’m looking to collaborate on **More Projects 🔥**
