@@ -11,8 +11,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/peiris_malshika/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/malshika.peiris.35)
 <br>
-<center
-![Paradox2405](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405&layout=compact&langs_count=6&theme=algolia)>
+<center>![Paradox2405](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405&layout=compact&langs_count=6&theme=algolia)</center>
+
 <br>
 
 
