@@ -1,11 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1 align="center">I'm Malshika Peiris</h1>
 <h2 align="center">proficient in a variety of IT skills and software Applications</h2>
-<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malshikapeiris/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/peiris_malshika/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/malshika.peiris.35)
-<br>
+<be>
+
 <h3 align="left">I am Malshika Peiris, a distinguished graduate of the esteemed Sri Lanka
 Institute of Information Technology (SLIIT). Equipped with a robust set of
 information skills, I am an ambitious professional known for approaching tasks
@@ -19,7 +20,9 @@ proactive approach to challenges.</h3>
   </a>
 
 </p>
-<br>
+<be>
+
+
 
 
 
