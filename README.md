@@ -1,5 +1,26 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,figma,jquery,sass,xd,react,redux,nodejs,express,angular,vue,mysql,mongodb,nextjs,nuxtjs,postman,threejs,tailwind,babel,electron,wordpress,webflow,cs,dotnet,docker,go,visualstudio,vscode,cloudflare,firebase,heroku,aws,azure" />
+    
+  </a>
+</p>
+<img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
+
+## Github Stats  
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=pfrazee" alt="justinalba747" "/></div>
+  </br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=justinalba747&show_icons=true&count_private=true&hide_border=true"/></div>  
+  <br/>
+ <div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinalba747&show_icons=true&locale=en&layout=compact" alt="justinalba747"/></div>
+  
+  <br/>
+  <div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinalba747&theme=dark)](https://git.io/streak-stats)
+  
+  </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malshikapeiris/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/peiris_malshika/)
@@ -24,7 +45,7 @@
 
 
 ![Paradox2405](https://github-readme-stats.vercel.app/api/wakatime?username=Paradox2405&layout=default&langs_count=8&theme=algolia&custom_title=Other%20Stats&v=2)
-<a href="https://app.daily.dev/paradox2405"><img src="https://api.daily.dev/devcards/2df269777df94559a05cf2aad4a82385.png?r=ubr" width="400" alt="Malshika's Dev Card"/></a>
+
 <br>
 <p align="center">MY SKILLS</p>
  
