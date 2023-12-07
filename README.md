@@ -7,17 +7,6 @@
 </p>
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
-
-## Github Stats  
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=pfrazee" alt="justinalba747" "/></div>
-  </br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=justinalba747&show_icons=true&count_private=true&hide_border=true"/></div>  
-  <br/>
- <div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinalba747&show_icons=true&locale=en&layout=compact" alt="justinalba747"/></div>
-  
-  <br/>
-  
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malshikapeiris/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/peiris_malshika/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/malshika.peiris.35)
