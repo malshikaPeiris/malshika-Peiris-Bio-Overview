@@ -1,4 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<p align="center"><img src="https://github.com/SandupaAbeywardana/SandupaAbeywardana/blob/main/landing.jpg" height="280"></p>
 <h1 align="center">I'm Malshika Peiris</h1>
 <h2 align="center">proficient in a variety of IT skills and software Applications</h2>
 
