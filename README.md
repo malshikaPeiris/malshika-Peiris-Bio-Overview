@@ -1,5 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h3 align="left">Hi I'm Malshika Peiris:</h3>
+<h1 align="left">Malshika Peiris</h1>
+
+<h3 align="left">I am Malshika Peiris, a distinguished graduate of the esteemed Sri Lanka
+Institute of Information Technology (SLIIT). Equipped with a robust set of
+information skills, I am an ambitious professional known for approaching tasks
+with a high degree of responsibility and a strategic mindset. Throughout my
+academic journey, I have demonstrated a keen aptitude for learning and a
+proactive approach to challenges.</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,figma,jquery,sass,xd,react,redux,nodejs,express,angular,vue,mysql,mongodb,nextjs,nuxtjs,postman,threejs,tailwind,babel,electron,wordpress,webflow,cs,dotnet,docker,go,visualstudio,vscode,cloudflare,firebase,heroku,aws,azure" />  
