@@ -24,6 +24,7 @@
 
 
 ![Paradox2405](https://github-readme-stats.vercel.app/api/wakatime?username=Paradox2405&layout=default&langs_count=8&theme=algolia&custom_title=Other%20Stats&v=2)
+<a href="https://app.daily.dev/paradox2405"><img src="https://api.daily.dev/devcards/2df269777df94559a05cf2aad4a82385.png?r=ubr" width="400" alt="Malshika's Dev Card"/></a>
 <br>
 <p align="center">MY SKILLS</p>
  
