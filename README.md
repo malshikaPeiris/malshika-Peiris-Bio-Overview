@@ -16,11 +16,7 @@
  <div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinalba747&show_icons=true&locale=en&layout=compact" alt="justinalba747"/></div>
   
   <br/>
-  <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinalba747&theme=dark)](https://git.io/streak-stats)
-  
-  </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malshikapeiris/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/peiris_malshika/)
