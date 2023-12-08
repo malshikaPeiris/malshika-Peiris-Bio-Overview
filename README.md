@@ -29,10 +29,9 @@ proactive approach to challenges.</h3>
 - 📫 How to contact me through FaceBook   : https://www.facebook.com/malshika.peiris.35 <br>
 - 📫 How to contact me through Instagram  : https://www.instagram.com/peiris_malshika/ <br>
 - 📫 How to contact me through Threads    : https://www.threads.net/@peiris_malshika <br>
-- 📫 How to contact me through YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br>
+- 📫 How to contact me through YouTube    : https://www.youtube.com/channel/UC49OuDkXjUk7tAL0rMW58LQ <br> <br> <br>
 - 🔭 I’m currently Undergraduate at  SLIIT<br>
 - 🔭 My Home Town: Kalutara South
-  <br> <br>
 - 🌱 I’m currently doing  a degree in Information Technology specializing in Information Technology<br>
 - 🌱 Did an Internship at Sri Lanka Customs Headoffice, IT Branch as a Pure PHP Web Developer.<br>
 - 📫 How to contact me: gpmalshika@gmail.com<br>
