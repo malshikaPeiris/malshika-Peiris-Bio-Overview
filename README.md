@@ -33,14 +33,14 @@ proactive approach to challenges.</h3>
 - 🔭 I’m currently Undergraduate at  SLIIT<br>
 - 🔭 My Home Town: Kalutara South
   <br> <br>
-- 🌱 I’m currently doing  a degree in Information Technology specializing in Information Technology
-- 🌱 Did an Internship at Sri Lanka Customs Headoffice, IT Branch as a Pure PHP Web Developer.
-- 📫 How to contact me: gpmalshika@gmail.com
-- 📫 How to contact me: it20147396@my.sliit.lk
-- 👯 I’m looking to collaborate on **More Projects 🔥**
-- 💞️ I’m looking to collaborate on any Cloud Platform
-- 📝 Sometimes I write articles 
-- ⚡ Fun fact **love to travel..🌴**
+- 🌱 I’m currently doing  a degree in Information Technology specializing in Information Technology<br>
+- 🌱 Did an Internship at Sri Lanka Customs Headoffice, IT Branch as a Pure PHP Web Developer.<br>
+- 📫 How to contact me: gpmalshika@gmail.com<br>
+- 📫 How to contact me: it20147396@my.sliit.lk<br>
+- 👯 I’m looking to collaborate on **More Projects 🔥**<br>
+- 💞️ I’m looking to collaborate on any Cloud Platform<br>
+- 📝 Sometimes I write articles <br>
+- ⚡ Fun fact **love to travel..🌴**<br>
 <br>
 
 <br>
